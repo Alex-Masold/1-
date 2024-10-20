@@ -11,6 +11,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="1:466b33e3-b50e-4032-9251-66524469ce2a">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.Склады.StandardCommand.Create">
 			<Visibility>
 				<xr:Common>true</xr:Common>

@@ -255,11 +255,13 @@
 			<CommonPicture>БухгалтерияКартинка</CommonPicture>
 			<CommonPicture>ПредприятиеКартинка</CommonPicture>
 			<CommonPicture>РасчетЗарплатыКартинка</CommonPicture>
+			<CommonModule>РаботаСДокументами</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Document>ПриходнаяНакладная</Document>
+			<Document>ОказаниеУслуг</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
